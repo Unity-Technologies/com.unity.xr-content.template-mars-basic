@@ -1,0 +1,18 @@
+{
+  "name": "com.unity.xr-content.template-mars-basic",
+  "version": "1.0.0",
+  "displayName": "Unity MARS Basic Templates",
+  "description": "A collection of pre-authored Unity scenes. These templates represent single use-case examples of Unity MARS features. They are basic examples meant to act as starting points or to study.",
+  "unity": "2019.3",
+  "unityRelease": "0f6",
+  "dependencies": {
+  },
+  "samples": [
+    {
+      "displayName": "Unity MARS Basic Templates Content",
+      "description": "The content associated with the Unity MARS basic templates.  This is installed into the project folder.",
+      "path": "UnityPackage~/",
+      "interactiveImport": true
+    }
+  ]
+}
